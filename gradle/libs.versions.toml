@@ -1,5 +1,5 @@
 [versions]
-dependency = '13.20.6'
+dependency = '13.20.7'
 xtraplatform = '5.4.3'
 xtraplatform-native = '5.4.3'
 antlr = '4.7.2'
